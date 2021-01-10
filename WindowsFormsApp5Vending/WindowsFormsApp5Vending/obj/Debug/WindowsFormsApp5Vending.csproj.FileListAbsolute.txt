@@ -1,0 +1,10 @@
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\bin\Debug\WindowsFormsApp5Vending.exe.config
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\bin\Debug\WindowsFormsApp5Vending.exe
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\bin\Debug\WindowsFormsApp5Vending.pdb
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\obj\Debug\WindowsFormsApp5Vending.csprojAssemblyReference.cache
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\obj\Debug\WindowsFormsApp5Vending.Form1.resources
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\obj\Debug\WindowsFormsApp5Vending.Properties.Resources.resources
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\obj\Debug\WindowsFormsApp5Vending.csproj.GenerateResource.cache
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\obj\Debug\WindowsFormsApp5Vending.csproj.CoreCompileInputs.cache
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\obj\Debug\WindowsFormsApp5Vending.exe
+C:\Users\longh\source\repos\WindowsFormsApp5Vending\WindowsFormsApp5Vending\obj\Debug\WindowsFormsApp5Vending.pdb
